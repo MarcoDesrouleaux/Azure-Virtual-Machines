@@ -1,4 +1,4 @@
-![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/34356d73-925a-41a7-86ee-3da10a04aa39)
+![image](https://i.imgur.com/qUcz7pD.png)
 
 # Microsoft Azure Virtual Machine Setup Guide
 
@@ -12,7 +12,7 @@ This guide will walk you through the process of creating a virtual machine on Mi
 ## Step 1: Sign in to Azure Portal
 1. Open your browser and navigate to [Azure Portal](https://portal.azure.com).
 2. Enter your email address and password to sign in.
-![Sign In]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ExNiOVz.png"/>
 
 ## Step 2: Create a Virtual Machine
 ### 2.1 Select Virtual Machine Creation
