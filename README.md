@@ -52,10 +52,6 @@ Select the type and size of disks as required.
 3. Click the 'Connect' button and follow the instructions to connect via RDP or SSH.
 ![Connect]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-## Step 7: Optional Steps
-You can now install additional software, configure network settings, or anything else specific to your use case.
-![Optional]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 ## Conclusion
 Congratulations! You have successfully created and connected to a virtual machine on Microsoft Azure. If you encounter any issues, refer to the [Azure Virtual Machines documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/).
 ![Congratulations]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
