@@ -31,7 +31,7 @@ This guide will walk you through the process of creating a virtual machine on Mi
 ### 2.1 Provide Basic Information for the Basics page
 1. Select the appropriate 'Subscription.'
 2. Enter a name for your Resource Group. For this example: we will name it Azure-Lab-1.
-3. Choose a region closest to your location. For this example, we will select (US) North Central US.
+3. Choose a region closest to your location. For this example: We will select (US) North Central US.
 <img src="https://i.imgur.com/J4aqr2K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.2 Provide Basic Information for the Tags page (Optional)
@@ -52,10 +52,25 @@ You have the option to specify a tag if you want. It is used in an organization 
 </tr>
 </table>
 
-## Step 3: Create a Virtual Machine
-1. Select an 'Operating System' from the available images.
-2. Select the desired 'Size' for your virtual machine (you can start with a small size and scale later if needed).
-![VM Image]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+## Step 3: Create Azure Virtual Machine
+1. Select "Azure Virtual Machine".
+<img src="https://i.imgur.com/0TPmNH6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+### 3.1 Provide Basic Information for the Basics page
+1. Select the appropriate 'Subscription.'
+2. Create or select an existing 'Resource Group.'
+3. Enter a name for your virtual machine. For this example: We will name it "VM1".
+4. Choose a region closest to your location. For this example: We will select (US) North Central US.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/9zvrdzQ.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/DZiwlcD.png" alt="Disk Sanitization Steps" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## Step 4: Configure Settings
 ### 4.1 Authentication
