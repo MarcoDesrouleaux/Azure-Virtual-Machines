@@ -39,7 +39,7 @@ You have the option to specify a tag if you want. It is used in an organization 
 <img src="https://i.imgur.com/dPInbYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.3 Review & Create a Resource Group
-1. Once it starts validating the information to see if everything is clear, you will see "Validation Passed" in green across the screen. Then you can proceed to create the resource group.
+1. Once it starts validating the information to see if everything is clear, you will see "Validation Passed" on the left side of the screen. Then you can proceed to create the resource group.
 2. The Resource Group is now created.
 <table>
 <tr>
@@ -53,7 +53,9 @@ You have the option to specify a tag if you want. It is used in an organization 
 </table>
 
 ## Step 3: Create Azure Virtual Machine
-1. Select "Azure Virtual Machine".
+1. Search and click on "virtual machines" from the search bar.
+<img src="https://i.imgur.com/6LSssAj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Select "Azure Virtual Machine".
 <img src="https://i.imgur.com/0TPmNH6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 3.1 Provide Basic Information for the Basics page
@@ -81,44 +83,22 @@ You have the option to specify a tag if you want. It is used in an organization 
 </table>
 
 ### 3.2 Provide Basic Information for the Disks page
-1. Leave as is.
+1. Leave the page as is.
 <img src="https://i.imgur.com/dH02jbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 3.3 Provide Basic Information for the Networking page
+1. Verify the public and private IP Addresses then leave the page as is.
+<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/2Whx8Eu.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/x0pvnVE.png" alt="Disk Sanitization Steps" width="100%"/>
-</td>
-</tr>
-</table>
-
-## Step 4: Configure Settings
-### 4.1 Authentication
-Choose either 'Password' or 'SSH public key' for authentication.
-### 4.2 Inbound Ports
-Select necessary ports such as HTTP, HTTPS, or SSH.
-### 4.3 Disks
-Select the type and size of disks as required.
-![Settings]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-## Step 5: Review and Create
-1. Review your virtual machine configuration to ensure everything is correct.
-2. Click 'Create' to initiate the deployment.
-![Review and Create]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-## Step 6: Connect to the Virtual Machine
-1. Go to the 'Virtual Machines' page.
-2. Click on your virtual machine's name.
-3. Click the 'Connect' button and follow the instructions to connect via RDP or SSH.
-![Connect]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+### 3.4 Review & Create a Virtual Machine
+1. Once it starts validating the information to see if everything is clear, you will see "Your deployment is complete". That is when your virtual machine will be created.
+<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Search and click on "virtual machines" from the search bar to look it up.
+<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. The Virtual machine is now created.
+<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Conclusion
 Congratulations! You have successfully created and connected to a virtual machine on Microsoft Azure. If you encounter any issues, refer to the [Azure Virtual Machines documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/).
-![Congratulations]<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Enjoy your Azure Virtual Machine, and don't hesitate to reach out with any questions or contributions!
