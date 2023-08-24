@@ -31,7 +31,7 @@ This guide will walk you through the process of creating a virtual machine on Mi
 ### 2.1 Provide Basic Information for the Basics page
 1. Select the appropriate 'Subscription.'
 2. Enter a name for your Resource Group. For this example: we will name it Azure-Lab-1.
-3. Choose a region closest to your location. For this example: We will select (US) North Central US.
+3. Choose a region closest to your location. For this example: We will select "(US) North Central US".
 <img src="https://i.imgur.com/J4aqr2K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.2 Provide Basic Information for the Tags page (Optional)
@@ -57,17 +57,42 @@ You have the option to specify a tag if you want. It is used in an organization 
 <img src="https://i.imgur.com/0TPmNH6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 3.1 Provide Basic Information for the Basics page
+## Project details 
 1. Select the appropriate 'Subscription.'
 2. Create or select an existing 'Resource Group.'
+## Instance details
 3. Enter a name for your virtual machine. For this example: We will name it "VM1".
-4. Choose a region closest to your location. For this example: We will select (US) North Central US.
+4. Choose a region closest to your location. For this example: We will select "(US) North Central US".
+5. Choose the Virtual Machine Image. For the example: We will select "Windows 10 Pro, version 22H2 - x64 Gen2".
+6.  Select the desired 'Size' for your virtual machine. For the example: We will select "Standard_E2s_v3 - 2 vcpus, 16 GiB memory ($91.98/month)".
+## Administrator account
+7. Create "Username, Password, then confirm password".
+## Licensing
+8. Scroll down and check the box that says "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights" before you click on "Next: Disks".
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/9zvrdzQ.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/2Whx8Eu.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/DZiwlcD.png" alt="Disk Sanitization Steps" width="100%"/>
+<img src="https://i.imgur.com/x0pvnVE.png" alt="Disk Sanitization Steps" width="100%"/>
+</td>
+</tr>
+</table>
+
+### 3.2 Provide Basic Information for the Disks page
+1. Leave as is.
+<img src="https://i.imgur.com/dH02jbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+### 3.3 Provide Basic Information for the Networking page
+
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/2Whx8Eu.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/x0pvnVE.png" alt="Disk Sanitization Steps" width="100%"/>
 </td>
 </tr>
 </table>
