@@ -68,7 +68,7 @@ You have the option to specify a tag if you want. It is used in an organization 
 5. Choose the Virtual Machine Image. For the example: We will select "Windows 10 Pro, version 22H2 - x64 Gen2".
 6.  Select the desired 'Size' for your virtual machine. For the example: We will select "Standard_E2s_v3 - 2 vcpus, 16 GiB memory ($91.98/month)".
 ## Administrator account
-7. Create "Username, Password, then confirm password". (If you forget the password, you will have to delete and create another VM)
+7. Create "Username, Password, then confirm password". (If you forget the password, you will have to delete and create another VM.)
 ## Licensing
 8. Scroll down and check the box that says "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights" before you click on "Next: Disks".
 <table>
