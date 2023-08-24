@@ -35,7 +35,7 @@ This guide will walk you through the process of creating a virtual machine on Mi
 <img src="https://i.imgur.com/J4aqr2K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.2 Provide Basic Information for the Tags page (Optional)
-You have the option to specify a tag if you want. It is used in an organization to keep track of certain data about certain resources or metadata to easily see who created the resource group(s). For this example: We will skip this page.
+You have the option to specify a tag if you want. It is used in an organization to keep track of certain data about certain resources or metadata to easily see who created the resource group(s). For this example: We will skip this.
 <img src="https://i.imgur.com/dPInbYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.3 Review & Create a Resource Group
@@ -60,8 +60,8 @@ You have the option to specify a tag if you want. It is used in an organization 
 
 ### 3.1 Provide Basic Information for the Basics page
 ## Project details 
-1. Select the appropriate 'Subscription.'
-2. Create or select an existing 'Resource Group.'
+1. Select the appropriate Subscription.
+2. Create or select an existing 'Resource Group. For this example: we will select "Azure-Lab-1".
 ## Instance details
 3. Enter a name for your virtual machine. For this example: We will name it "VM1".
 4. Choose a region closest to your location. For this example: We will select "(US) North Central US".
