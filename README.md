@@ -92,9 +92,9 @@ You have the option to specify a tag if you want. It is used in an organization 
 
 ### 3.4 Review & Create a Virtual Machine
 1. Once it starts validating the information to see if everything is clear, you will see "Your deployment is complete". That is when your virtual machine will be created.
-<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-2. Search and click on "virtual machines" from the search bar to look it up.
-<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qnYPKTM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
+<img src="https://i.imgur.com/MdXKfgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 3. The Virtual machine is now created.
 <img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
