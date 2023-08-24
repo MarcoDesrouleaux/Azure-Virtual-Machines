@@ -97,7 +97,7 @@ You have the option to specify a tag if you want. It is used in an organization 
 <img src="https://i.imgur.com/qnYPKTM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 3. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
 <img src="https://i.imgur.com/MdXKfgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-4. The Virtual machine is now created.
+4. The Virtual Machine is now created.
 <img src="https://i.imgur.com/Rc8GLM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Conclusion
