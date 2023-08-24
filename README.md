@@ -70,7 +70,7 @@ You have the option to specify a tag if you want. It is used in an organization 
 ## Administrator account
 7. Create "Username, Password, then confirm password". (If you forget the password, you will have to delete and create another VM.)
 ## Licensing
-8. Scroll down and check the box that says "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights" before you click on "Next: Disks".
+8. Check the box that says "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights" before you click on "Next: Disks".
 <table>
 <tr>
 <td>
