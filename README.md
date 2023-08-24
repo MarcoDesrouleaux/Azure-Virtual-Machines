@@ -30,7 +30,7 @@ This guide will walk you through the process of creating a virtual machine on Mi
 
 ### 2.1 Provide Basic Information for the Basics page
 1. Select the appropriate 'Subscription.'
-2. Enter a name for your Resource Group. For this example: we will name it Azure-Lab-1.
+2. Enter a name for your Resource Group. For this example: we will name it "Azure-Lab-1".
 3. Choose a region closest to your location. For this example: We will select "(US) North Central US".
 <img src="https://i.imgur.com/J4aqr2K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
