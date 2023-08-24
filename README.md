@@ -91,13 +91,13 @@ You have the option to specify a tag if you want. It is used in an organization 
 <img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 3.4 Review & Create a Virtual Machine
-Once it starts validating the information to see if everything is clear, you will see "Validation Passed" on the left side of the screen. Then you can proceed to create the virtual machine.
+1. Once it starts validating the information to see if everything is clear, you will see "Validation Passed" on the left side of the screen. Then you can proceed to create the virtual machine.
 <img src="https://i.imgur.com/wDvYkce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-1. Once you click the "Create button", you will see "Your deployment is complete". That is when your virtual machine will be created.
+2. Once you click the "Create button", you will see "Your deployment is complete". That is when your virtual machine will be created.
 <img src="https://i.imgur.com/qnYPKTM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-2. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
+3. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
 <img src="https://i.imgur.com/MdXKfgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-3. The Virtual machine is now created.
+4. The Virtual machine is now created.
 <img src="https://i.imgur.com/Rc8GLM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Conclusion
