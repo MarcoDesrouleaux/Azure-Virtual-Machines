@@ -101,6 +101,4 @@ You have the option to specify a tag if you want. It is used in an organization 
 <img src="https://i.imgur.com/Rc8GLM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Conclusion
-Congratulations! You have successfully created and connected to a virtual machine on Microsoft Azure. If you encounter any issues, refer to the [Azure Virtual Machines documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/).
-
-Enjoy your Azure Virtual Machine, and don't hesitate to reach out with any questions or contributions!
+Congratulations! You have successfully created and connected to a virtual machine on Microsoft Azure.
